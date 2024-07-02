@@ -6,29 +6,40 @@ I'm a frontend developer proficient in the MERN stack, specializing in creating 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developer-fahad" alt="developer-fahad" /></p>
 
 ## 👨‍💻 Technologies & Tools: 
-[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84" alt="Android logo" title="Android" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Fastlane-282C34?logo=fastlane&logoColor=00F200" alt="Fastlane logo" title="Fastlane" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21325" alt="Jest logo" title="Jest" height="25" />][tech_tools_anchor]
+<a href="https://www.drupal.org/" title="Drupal"><img src="icons/drupal.png" /></a>
+<a href="https://www.php.net/" title="PHP"><img src="icons/php.png" /></a>
+<a href="https://getcomposer.org/" title="Composer"><img src="icons/composer.png" /></a>
+<a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
+<a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
+<a href="https://www.docker.com/" title="Docker"><img src="icons/docker.png" /></a>
+<a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
+<a href="https://gitlab.com/" title="GitLab"><img src="icons/gitlab.png" /></a>
+<a href="https://www.terraform.io/" title="Terraform"><img src="icons/terraform.png" /></a>
+<a href="https://www.ansible.com/" title="Ansible"><img src="icons/ansible.png" /></a>
+<a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
+<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" /></a>
+<a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
+<a href="https://mariadb.org/" title="MariaDB"><img src="icons/mariadb.png" /></a>
+<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
+<a href="https://www.jetbrains.com/phpstorm/" title="PHPStorm"><img src="icons/phpstorm.png" /></a>
+
+**Learning:**
+
+<a href="https://golang.org/" title="Golang"><img src="icons/golang.png" /></a>
+<a href="https://www.rust-lang.org/" title="Rust"><img src="icons/rust.png" /></a>
+<a href="https://dart.dev/" title="Dart"><img src="icons/dartlang.png" /></a>
+<a href="https://flutter.dev/" title="Flutter"><img src="icons/flutter.png" /></a>
+
+**Previously worked with:**
+
+<a href="https://dotnet.microsoft.com/" title="dotNet"><img src="icons/dotnet.png" /></a>
+<a href="http://csharp.net/" title="C#"><img src="icons/csharp.png" /></a>
+<a href="https://docs.microsoft.com/en-us/dotnet/visual-basic/" title="Visual Basic"><img src="icons/vbnet.png" /></a>
+<a href="https://angular.io/" title="Angular"><img src="icons/angular.png" /></a>
+<a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
+<a href="https://laravel.com/" title="Laravel"><img src="icons/laravel.png" /></a>
+<a href="https://wordpress.org/" title="WordPress"><img src="icons/wordpress.png" /></a>
+<a href="https://www.vagrantup.com/" title="Vagrant"><img src="icons/vagrant.png" /></a>
 
 ## ☎ Connect with me!
 <p align="left">
