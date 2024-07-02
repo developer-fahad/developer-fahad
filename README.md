@@ -3,6 +3,8 @@
 ## 🚀 About Me
 I'm a frontend developer proficient in the MERN stack, specializing in creating dynamic and responsive web applications. Passionate about development using React.js for building user interfaces and efficient data management. Committed to continuous learning and achieving excellence in delivering high-quality, user-centric solutions. 
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developer-fahad" alt="developer-fahad" /></p>
+
 ## 👨‍💻 Skills & Experiance: 
 ✅ React <br> 
 ✅ JavaScript <br>
@@ -24,4 +26,4 @@ I'm a frontend developer proficient in the MERN stack, specializing in creating 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohana-karniz-mimmi&show_icons=true&locale=en&layout=compact" alt="sohana-karniz-mimmi" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohana-karniz-mimmi&show_icons=true&locale=en" alt="sohana-karniz-mimmi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developer-fahad" alt="developer-fahad" /></p>
+
