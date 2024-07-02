@@ -24,4 +24,4 @@ I'm a frontend developer proficient in the MERN stack, specializing in creating 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohana-karniz-mimmi&show_icons=true&locale=en&layout=compact" alt="sohana-karniz-mimmi" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohana-karniz-mimmi&show_icons=true&locale=en" alt="sohana-karniz-mimmi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sohana-karniz-mimmi&" alt="sohana-karniz-mimmi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developer-fahad" alt="developer-fahad" /></p>
