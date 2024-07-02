@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I'm a frontend developer proficient in the MERN stack, specializing in creating dynamic and responsive web applications. Passionate about development using React.js for building user interfaces and efficient data management. Committed to continuous learning and achieving excellence in delivering high-quality, user-centric solutions. 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developer-fahad" alt="developer-fahad" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developer-fahad" alt="developer-fahad" /></p>
 
 ## 👨‍💻 Technologies & Tools: 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
