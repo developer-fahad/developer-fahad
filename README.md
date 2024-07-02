@@ -26,7 +26,7 @@ I'm a frontend developer proficient in the MERN stack, specializing in creating 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>
   <a href="https://tanstack.com/query/latest" target="_blank" rel="noreferrer"> 
-    <img src="https://pbs.twimg.com/profile_images/1398483900436948994/WSGF4gof_400x400.jpg" alt="tanstack query" width="40" height="40"/>
+    <img src="https://static-00.iconduck.com/assets.00/react-query-icon-256x256-zswjfj7a.png" alt="tanstack query" width="40" height="40"/>
   </a>
   <a href="https://jwt.io/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/jwt.svg" alt="jwt" width="40" height="40"/>
@@ -44,7 +44,7 @@ I'm a frontend developer proficient in the MERN stack, specializing in creating 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
   </a> 
   <a href="https://restfulapi.net/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/rest/rest-ar21.svg" alt="rest api" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/swaggerio/swaggerio-icon.svg" alt="rest api" width="40" height="40"/>
   </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/>
