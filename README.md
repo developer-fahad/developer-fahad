@@ -6,7 +6,7 @@ I'm a frontend developer proficient in the MERN stack, specializing in creating 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developer-fahad" alt="developer-fahad" /></p>
 
 ## 👨‍💻 Technologies & Tools: 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;" align="center">
+<p align="center">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a> 
@@ -25,12 +25,6 @@ I'm a frontend developer proficient in the MERN stack, specializing in creating 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>
-  <a href="https://tanstack.com/query/latest" target="_blank" rel="noreferrer"> 
-    <img src="https://static-00.iconduck.com/assets.00/react-query-icon-256x256-zswjfj7a.png" alt="tanstack query" width="40" height="40"/>
-  </a>
-  <a href="https://jwt.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/jwt.svg" alt="jwt" width="40" height="40"/>
-  </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
   </a>
@@ -43,9 +37,6 @@ I'm a frontend developer proficient in the MERN stack, specializing in creating 
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
   </a> 
-  <a href="https://restfulapi.net/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/swaggerio/swaggerio-icon.svg" alt="rest api" width="40" height="40"/>
-  </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/>
   </a>
@@ -58,7 +49,7 @@ I'm a frontend developer proficient in the MERN stack, specializing in creating 
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40"/> 
   </a>
-</div>
+</p>
 
 ## ☎ Connect with me!
 <p align="left">
