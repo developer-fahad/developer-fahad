@@ -1,11 +1,14 @@
 ![](https://i.ibb.co/y6zDjVq/mern-stack.png)
 
 ## 🚀 About Me
+
 I'm a frontend developer proficient in the MERN stack, specializing in creating dynamic and responsive web applications. Passionate about development using React.js for building user interfaces and efficient data management. Committed to continuous learning and achieving excellence in delivering high-quality, user-centric solutions. 
+
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developer-fahad" alt="developer-fahad" /></p>
 
 ## 👨‍💻 Technologies & Tools: 
+
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
@@ -51,7 +54,9 @@ I'm a frontend developer proficient in the MERN stack, specializing in creating 
   </a>
 </p>
 
+
 ## ☎ Connect with me!
+
 <p align="left">
   <a href="https://www.facebook.com/profile.mohiburrahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shohana-akter-mimmi" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/developerfahad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shohana-akter-mimmi" height="30" width="40" /></a>
@@ -60,7 +65,7 @@ I'm a frontend developer proficient in the MERN stack, specializing in creating 
 
 ## 💹 Current Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohana-karniz-mimmi&show_icons=true&locale=en&layout=compact" alt="sohana-karniz-mimmi" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohana-karniz-mimmi&show_icons=true&locale=en" alt="sohana-karniz-mimmi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=developer-fahad&show_icons=true&locale=en&layout=compact" alt="developer-fahad" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developer-fahad&show_icons=true&locale=en" alt="developer-fahad" /></p>
 
 
