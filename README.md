@@ -1,5 +1,5 @@
 ## Hi there 👋
-(https://i.ibb.co/kGFMcM1/MERN-stack.jpg)
+!(https://i.ibb.co/kGFMcM1/MERN-stack.jpg)
 <!--
 **developer-fahad/developer-fahad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
