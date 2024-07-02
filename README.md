@@ -1,4 +1,3 @@
-## Hi there 👋
 ![A passionate Frontend Developer from Bangladesh](https://i.ibb.co/kGFMcM1/MERN-stack.jpg)
 
 
