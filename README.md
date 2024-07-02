@@ -1,7 +1,7 @@
 ![](https://i.ibb.co/y6zDjVq/mern-stack.png)
 
 ## 🚀 About Me
-I am a Frontend Developer, I am learning and applying the latest technologies and best practices in frontend web development. I have built multiple projects using React.js, Material UI, Tailwind CSS, and Node.js mongoDB, demonstrating my proficiency and creativity in frontend development. 
+I'm a frontend developer proficient in the MERN stack, specializing in creating dynamic and responsive web applications. Passionate about development using React.js for building user interfaces and efficient data management. Committed to continuous learning and achieving excellence in delivering high-quality, user-centric solutions. 
 
 ## 👨‍💻 Skills & Experiance: 
 ✅ React <br> 
