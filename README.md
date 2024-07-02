@@ -6,7 +6,7 @@ I'm a frontend developer proficient in the MERN stack, specializing in creating 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developer-fahad" alt="developer-fahad" /></p>
 
 ## 👨‍💻 Technologies & Tools: 
-<p align="center">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a> 
@@ -58,7 +58,7 @@ I'm a frontend developer proficient in the MERN stack, specializing in creating 
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40"/> 
   </a>
-</p>
+</div>
 
 ## ☎ Connect with me!
 <p align="left">
