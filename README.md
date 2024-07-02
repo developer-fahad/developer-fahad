@@ -1,5 +1,5 @@
 ## Hi there 👋
-![A passionate Frontend Developer from Bangladesh](https://i.ibb.co/7bmhbLL/Banner-1.png)
+![A passionate Frontend Developer from Bangladesh](https://i.ibb.co/kGFMcM1/MERN-stack.jpg)
 
 
 <h1  align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, good to see you <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/><br />I'm Shohana Akter</h1>
